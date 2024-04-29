@@ -1,0 +1,188 @@
+2024-04-28 18:42:47.612[info] app start
+2024-04-28 18:42:47.637[error] DB Connection fail connect ECONNREFUSED ::1:5433
+2024-04-28 18:43:09.353[info] app start
+2024-04-28 18:43:09.526[info] DB connection success
+2024-04-28 18:43:09.578[info] Sequelize sync success
+2024-04-28 18:47:16.859[info] app start
+2024-04-28 18:47:16.954[info] DB connection success
+2024-04-28 18:47:16.976[info] Sequelize sync success
+2024-04-28 18:50:39.706[info] app start
+2024-04-28 18:50:39.793[info] DB connection success
+2024-04-28 18:50:39.842[info] Sequelize sync success
+2024-04-28 18:50:55.495[info] (User.reg.params) {"email":"leejhyun@naver.com","password":"password","nickname":"이정현"}
+2024-04-28 18:50:55.587[debug] (userService.reg) {"id":1,"email":"leejhyun@naver.com","password":"password","nickname":"이정현","updatedAt":"2024-04-28T09:50:55.497Z","createdAt":"2024-04-28T09:50:55.497Z","deletedAt":null}
+2024-04-28 18:50:55.590[info] (user.reg.result): #{JSON.stringify(result)}
+2024-04-28 18:51:24.568[info] (User.reg.params) {"email":"leejh44351@naver.com","password":"password","nickname":"이정현2"}
+2024-04-28 18:51:24.655[debug] (userService.reg) {"id":2,"email":"leejh44351@naver.com","password":"password","nickname":"이정현2","updatedAt":"2024-04-28T09:51:24.569Z","createdAt":"2024-04-28T09:51:24.569Z","deletedAt":null}
+2024-04-28 18:51:24.656[info] (user.reg.result): #{JSON.stringify(result)}
+2024-04-28 20:04:32.650[info] app start
+2024-04-28 20:04:32.776[info] DB connection success
+2024-04-28 20:04:32.797[info] Sequelize sync success
+2024-04-28 20:05:50.803[info] app start
+2024-04-28 20:05:50.902[info] DB connection success
+2024-04-28 20:05:50.917[info] Sequelize sync success
+2024-04-28 20:06:13.623[info] app start
+2024-04-28 20:06:13.701[info] DB connection success
+2024-04-28 20:06:13.712[info] Sequelize sync success
+2024-04-28 20:06:54.215[info] app start
+2024-04-28 20:06:54.308[info] DB connection success
+2024-04-28 20:06:54.321[info] Sequelize sync success
+2024-04-28 20:10:24.363[info] app start
+2024-04-28 20:10:24.470[info] DB connection success
+2024-04-28 20:10:24.487[info] Sequelize sync success
+2024-04-28 20:14:21.456[info] app start
+2024-04-28 20:14:21.539[info] DB connection success
+2024-04-28 20:14:21.550[info] Sequelize sync success
+2024-04-28 20:17:15.425[info] app start
+2024-04-28 20:17:15.509[info] DB connection success
+2024-04-28 20:17:15.531[info] Sequelize sync success
+2024-04-28 22:36:08.151[info] app start
+2024-04-28 22:36:08.232[info] DB connection success
+2024-04-28 22:36:08.244[info] Sequelize sync success
+2024-04-28 22:36:30.144[info] app start
+2024-04-28 22:36:30.238[info] DB connection success
+2024-04-28 22:36:30.249[info] Sequelize sync success
+2024-04-28 22:37:41.452[info] app start
+2024-04-28 22:37:41.551[info] DB connection success
+2024-04-28 22:37:41.562[info] Sequelize sync success
+2024-04-28 22:37:50.307[info] app start
+2024-04-28 22:37:50.393[info] DB connection success
+2024-04-28 22:37:50.404[info] Sequelize sync success
+2024-04-28 22:39:13.078[debug] (userServiceList) undefined
+2024-04-28 22:39:13.079[info] (User.list.params) {}
+2024-04-28 22:39:21.793[debug] (userServiceList) undefined
+2024-04-28 22:39:21.793[info] (User.list.params) {}
+2024-04-28 22:39:38.800[info] app start
+2024-04-28 22:39:38.892[info] DB connection success
+2024-04-28 22:39:38.910[info] Sequelize sync success
+2024-04-28 22:43:06.978[debug] (userServiceList) undefined
+2024-04-28 22:43:06.979[info] (User.list.params) {}
+2024-04-28 22:43:14.750[debug] (userServiceList) undefined
+2024-04-28 22:43:14.750[info] (User.list.params) {}
+2024-04-28 22:46:59.579[debug] (userServiceList) undefined
+2024-04-28 22:46:59.582[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 22:47:08.074[debug] (userServiceList) undefined
+2024-04-28 22:47:08.075[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 22:48:09.677[info] app start
+2024-04-28 22:48:09.772[info] DB connection success
+2024-04-28 22:48:09.782[info] Sequelize sync success
+2024-04-28 22:48:12.271[debug] (userServiceList) undefined
+2024-04-28 22:48:12.272[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 22:55:37.580[info] app start
+2024-04-28 22:55:37.659[info] DB connection success
+2024-04-28 22:55:37.676[info] Sequelize sync success
+2024-04-28 22:55:42.775[debug] (userServiceList) undefined
+2024-04-28 22:55:42.777[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 22:56:40.289[info] (User.reg.params) {"email":"leejh44351@naver.com","password":"password","nickname":"이정현2"}
+2024-04-28 22:56:40.373[error] (userService.reg)SequelizeUniqueConstraintError: Validation error
+2024-04-28 22:57:00.286[info] (User.reg.params) {"email":"leejh44351@gmail.com","password":"password","nickname":"이정현2"}
+2024-04-28 22:57:00.352[error] (userService.reg)SequelizeUniqueConstraintError: Validation error
+2024-04-28 22:57:10.619[info] (User.reg.params) {"email":"leejh44351@gmail.com","password":"password","nickname":"이정현3"}
+2024-04-28 22:57:10.696[debug] (userService.reg) {"id":5,"email":"leejh44351@gmail.com","password":"password","nickname":"이정현3","updatedAt":"2024-04-28T13:57:10.620Z","createdAt":"2024-04-28T13:57:10.620Z","deletedAt":null}
+2024-04-28 22:57:10.697[info] (user.reg.result): #{JSON.stringify(result)}
+2024-04-28 22:57:56.961[info] app start
+2024-04-28 22:57:57.076[info] DB connection success
+2024-04-28 22:57:57.088[info] Sequelize sync success
+2024-04-28 22:59:58.047[info] app start
+2024-04-28 22:59:58.129[info] DB connection success
+2024-04-28 22:59:58.142[info] Sequelize sync success
+2024-04-28 23:00:36.077[debug] (userServiceList) undefined
+2024-04-28 23:00:36.078[info] (User.list.params) {"email":""}
+2024-04-28 23:00:42.656[debug] (userServiceList) undefined
+2024-04-28 23:00:42.657[info] (User.list.params) {}
+2024-04-28 23:01:29.257[debug] (userServiceList) undefined
+2024-04-28 23:01:29.258[info] (User.list.params) {"email":""}
+2024-04-28 23:01:49.107[info] app start
+2024-04-28 23:01:49.195[info] DB connection success
+2024-04-28 23:01:49.209[info] Sequelize sync success
+2024-04-28 23:01:51.814[debug] (userServiceList) undefined
+2024-04-28 23:01:51.815[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:02:04.122[info] app start
+2024-04-28 23:02:04.223[info] DB connection success
+2024-04-28 23:02:04.237[info] Sequelize sync success
+2024-04-28 23:02:05.934[debug] (userServiceList) undefined
+2024-04-28 23:02:05.935[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:02:20.778[info] app start
+2024-04-28 23:02:20.864[info] DB connection success
+2024-04-28 23:02:20.877[info] Sequelize sync success
+2024-04-28 23:02:22.995[debug] (userServiceList) undefined
+2024-04-28 23:02:22.996[info] (User.list.params) {}
+2024-04-28 23:02:44.194[info] app start
+2024-04-28 23:02:44.279[info] DB connection success
+2024-04-28 23:02:44.291[info] Sequelize sync success
+2024-04-28 23:05:19.116[debug] (userServiceList) undefined
+2024-04-28 23:05:19.117[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:07:31.454[debug] (userServiceList) undefined
+2024-04-28 23:07:31.455[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:10:06.121[info] app start
+2024-04-28 23:10:06.209[info] DB connection success
+2024-04-28 23:10:06.225[info] Sequelize sync success
+2024-04-28 23:11:42.769[info] app start
+2024-04-28 23:11:42.864[info] DB connection success
+2024-04-28 23:11:42.877[info] Sequelize sync success
+2024-04-28 23:12:41.330[info] app start
+2024-04-28 23:12:41.417[info] DB connection success
+2024-04-28 23:12:41.428[info] Sequelize sync success
+2024-04-28 23:12:45.484[debug] (userService.userList) undefined
+2024-04-28 23:12:45.485[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:13:21.246[info] (User.reg.params) {"email":"leejh44351@kakao.com","password":"password","nickname":"이정현4"}
+2024-04-28 23:13:21.337[debug] (userService.reg) {"id":6,"email":"leejh44351@kakao.com","password":"password","nickname":"이정현4","updatedAt":"2024-04-28T14:13:21.248Z","createdAt":"2024-04-28T14:13:21.248Z","deletedAt":null}
+2024-04-28 23:13:21.338[info] (user.reg.result): #{JSON.stringify(result)}
+2024-04-28 23:13:38.150[debug] (userService.userList) undefined
+2024-04-28 23:13:38.151[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:13:47.118[debug] (userService.userList) undefined
+2024-04-28 23:13:47.120[info] (User.list.params) {"email":"leejh44351@naver.com","nickname":""}
+2024-04-28 23:14:00.303[debug] (userService.userList) undefined
+2024-04-28 23:14:00.304[info] (User.list.params) {"email":"leejh44351@naver.com","nickname":""}
+2024-04-28 23:16:16.786[debug] (userService.userList) undefined
+2024-04-28 23:16:16.786[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:25:43.977[info] app start
+2024-04-28 23:25:44.062[info] DB connection success
+2024-04-28 23:25:44.073[info] Sequelize sync success
+2024-04-28 23:25:47.834[debug] (userService.userList) [{"id":1,"email":"leejhyun@naver.com","password":"password","nickname":"이정현","createdAt":"2024-04-28T09:50:55.497Z","updatedAt":"2024-04-28T09:50:55.497Z","deletedAt":null},{"id":2,"email":"leejh44351@naver.com","password":"password","nickname":"이정현2","createdAt":"2024-04-28T09:51:24.569Z","updatedAt":"2024-04-28T09:51:24.569Z","deletedAt":null},{"id":5,"email":"leejh44351@gmail.com","password":"password","nickname":"이정현3","createdAt":"2024-04-28T13:57:10.620Z","updatedAt":"2024-04-28T13:57:10.620Z","deletedAt":null},{"id":6,"email":"leejh44351@kakao.com","password":"password","nickname":"이정현4","createdAt":"2024-04-28T14:13:21.248Z","updatedAt":"2024-04-28T14:13:21.248Z","deletedAt":null}]
+2024-04-28 23:25:47.835[info] (User.list.params) {"email":"","nickname":""}
+2024-04-28 23:26:45.802[info] app start
+2024-04-28 23:26:45.905[info] DB connection success
+2024-04-28 23:26:45.921[info] Sequelize sync success
+2024-04-28 23:31:13.383[info] app start
+2024-04-28 23:31:13.473[info] DB connection success
+2024-04-28 23:31:13.488[info] Sequelize sync success
+2024-04-28 23:33:27.715[info] app start
+2024-04-28 23:33:27.799[info] DB connection success
+2024-04-28 23:33:27.815[info] Sequelize sync success
+2024-04-28 23:35:21.880[info] app start
+2024-04-28 23:35:21.971[info] DB connection success
+2024-04-28 23:35:21.990[info] Sequelize sync success
+2024-04-28 23:37:30.894[info] app start
+2024-04-28 23:37:30.976[info] DB connection success
+2024-04-28 23:37:30.990[info] Sequelize sync success
+2024-04-28 23:38:20.231[info] app start
+2024-04-28 23:38:20.304[info] DB connection success
+2024-04-28 23:38:20.320[info] Sequelize sync success
+2024-04-28 23:38:25.013[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
+2024-04-28 23:44:12.809[info] app start
+2024-04-28 23:44:12.904[info] DB connection success
+2024-04-28 23:44:12.924[info] Sequelize sync success
+2024-04-28 23:45:51.666[info] app start
+2024-04-28 23:45:51.753[info] DB connection success
+2024-04-28 23:45:51.766[info] Sequelize sync success
+2024-04-28 23:46:02.617[info] app start
+2024-04-28 23:46:02.696[info] DB connection success
+2024-04-28 23:46:02.706[info] Sequelize sync success
+2024-04-28 23:46:07.221[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
+2024-04-28 23:46:22.995[info] app start
+2024-04-28 23:46:23.138[info] DB connection success
+2024-04-28 23:46:23.159[info] Sequelize sync success
+2024-04-28 23:46:25.322[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
+2024-04-28 23:48:04.387[info] app start
+2024-04-28 23:48:04.467[info] DB connection success
+2024-04-28 23:48:04.485[info] Sequelize sync success
+2024-04-28 23:48:09.754[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
+2024-04-28 23:48:42.086[info] app start
+2024-04-28 23:48:42.174[info] DB connection success
+2024-04-28 23:48:42.186[info] Sequelize sync success
+2024-04-28 23:49:02.218[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
+2024-04-28 23:51:43.049[info] app start
+2024-04-28 23:51:43.122[info] DB connection success
+2024-04-28 23:51:43.135[info] Sequelize sync success
+2024-04-28 23:51:46.126[error] (userService.userInfoErr) TypeError: userDao.selectOne is not a function
